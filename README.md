@@ -18,6 +18,6 @@
   <span> </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sxdnbnb&theme==tokyonight" />
   <span> </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxdnbnb&hide=html,css,&layout=compact&langs_count=8&theme=onedark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxdnbnb&hide=html,css,typescript,scss,dockerfile&layout=compact&langs_count=8&theme=onedark" />
   <span> </span>
 </div>
